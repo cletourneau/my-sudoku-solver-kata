@@ -1,0 +1,10 @@
+.directory
+.DS_Store
+.settings
+out/
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/scopes/
+.idea/workspace.xml
+.idea/codeStyleSettings.xml
+.idea/dictionaries/
